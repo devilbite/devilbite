@@ -19,6 +19,6 @@
 
 
 <br align=center>
-     <a href="https://kingdomheartz.atabook.org">sign atabook</a>   ㅤ            ㅤ            ㅤ            ㅤ         
-     <a href="https://rentry.co/kingheartz">rentry.co</a>
+     <a href="https://devilbite.atabook.org">sign atabook</a>   ㅤ            ㅤ            ㅤ            ㅤ         
+     <a href="https://rentry.co/devilxbite">rentry.co</a>
 </sub>
