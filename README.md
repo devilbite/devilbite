@@ -1,7 +1,6 @@
+
 <p align=center>
-     
-<br align=center>
-      @ $${\color{#ce321a} devilbite}$$  .ㅤ//
+     <img width="96" height="47" alt="Illustration" src="https://github.com/user-attachments/assets/8dbf5cb4-8e2c-4c52-8565-1820526c0202" />
 
 
 <br align=center>
