@@ -18,7 +18,7 @@
 — ⟢ㅤthe legendary devil hunter.ㅤ⊹ ࣪ ˖
 
 
-<br align=center>
-     <a href="https://devilbite.atabook.org">sign atabook</a>   ㅤ            ㅤ            ㅤ            ㅤ         
-     <a href="https://rentry.co/devilxbite">rentry.co</a>
+<p align=center>
+     <a href="https://devilbite.atabook.org/"><img src="https://i.postimg.cc/X70Syw2M/Hello-IMG1721006637768.gif"></img></a>    ㅤ         
+     <a href="https://rentry.co/devilxbite"><img src="https://i.postimg.cc/4xJDWXkB/Hello-IMG1721006638228.gif"></img></a>
 </sub>
