@@ -1,22 +1,30 @@
+
+<div align="center">
+     
+<img width="126" height="77" alt="Illustration" src="https://github.com/user-attachments/assets/8dbf5cb4-8e2c-4c52-8565-1820526c0202" margin="5" />
+
+<div>
+     <sub>
+          ⋅ ——— ⊰ ꒰ ✶ ꒱ ⊱ ——— ⋅
+     <sub/>
+
+<br><br><br>
+</div>
+<img width="90" alt="Illustration" src="https://github.com/user-attachments/assets/f7eb2687-0928-431e-bcab-2b64738e4c17" style="margin-top: 20px;" />
+
+<div style="margin-top: 10px;">
 <sub>
-<p align=center>
-     <img width="96" height="47" alt="Illustration" src="https://github.com/user-attachments/assets/8dbf5cb4-8e2c-4c52-8565-1820526c0202" />
-<sub/>
+    zack&nbsp;&nbsp;&nbsp;20yo&nbsp;&nbsp;&nbsp;he / him
+    <p>
+    — ⟢&nbsp;the legendary devil hunter.&nbsp;⊹ ࣪ ˖
+        <p>
+        <a href="https://devilbite.atabook.org/" > 
+          <img src="https://i.postimg.cc/X70Syw2M/Hello-IMG1721006637768.gif"> 
+      </a> &nbsp;&nbsp;&nbsp;
+        <a href="https://rentry.co/devilxbite">
+          <img src="https://i.postimg.cc/4xJDWXkB/Hello-IMG1721006638228.gif">
+     </a>
+</div>
 
-<p align=center>
-     ⋆˙⟡   ㅤ         zack   ㅤ            20yo   ㅤ            he  /  him
+</div>
 
-<p align=center>
-    ⋅ — ⊰ ꒰ ✶ ꒱ ⊱ — ⋅ 
-
-<p align=center>
-     <img width="90" alt="image" src="https://64.media.tumblr.com/3104c1c34454ac12d9d40ac545302e1e/d587453ecafc9e6f-ad/s640x960/b18e21db653dbe7bbceebbd3bff88e41d3754b6e.png" />
-
-<sub>
-<p align=center>
-— ⟢ㅤthe legendary devil hunter.ㅤ⊹ ࣪ ˖
-
-<p align=center>
-     <a href="https://devilbite.atabook.org/"><img src="https://i.postimg.cc/X70Syw2M/Hello-IMG1721006637768.gif"></img></a>    ㅤ         
-     <a href="https://rentry.co/devilxbite"><img src="https://i.postimg.cc/4xJDWXkB/Hello-IMG1721006638228.gif"></img></a>
-</sub>
