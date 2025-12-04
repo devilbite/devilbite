@@ -14,9 +14,9 @@
 
 <div style="margin-top: 10px;">
 <sub>
-    zack&nbsp;&nbsp;&nbsp;20yo&nbsp;&nbsp;&nbsp;he / him
+    — ⟢&nbsp; zack&nbsp;&nbsp;&nbsp;20yo&nbsp;&nbsp;&nbsp;he / him
     <p>
-    — ⟢&nbsp;the legendary devil hunter.&nbsp;⊹ ࣪ ˖
+    &nbsp;the legendary devil hunter.&nbsp;⊹ ࣪ ˖
         <p>
         <a href="https://devilbite.atabook.org/" > 
           <img src="https://i.postimg.cc/X70Syw2M/Hello-IMG1721006637768.gif"> 
