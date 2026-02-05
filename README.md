@@ -5,7 +5,7 @@
 
 <div align="center" > <sub>
      — ⟢&nbsp; maxwell&nbsp;&nbsp;&nbsp;20yo&nbsp;&nbsp;&nbsp;he / him<p>
-    &nbsp; . . . rotten to the core.&nbsp;<p>
+    &nbsp; rotten to the core . . . &nbsp;<p>
         <a href="https://devilbite.atabook.org/" > 
           <img src="https://i.postimg.cc/X70Syw2M/Hello-IMG1721006637768.gif"> 
       </a> &nbsp;&nbsp;&nbsp;
