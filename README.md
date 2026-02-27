@@ -4,7 +4,7 @@
 </div>
 
 <div align="center" > <sub>
-     — ⟢&nbsp; maxwell&nbsp;&nbsp;&nbsp;20yo&nbsp;&nbsp;&nbsp;he / him<p>
+     — ⟢&nbsp; maxwell.&nbsp;&nbsp;&nbsp;20yo.&nbsp;&nbsp;&nbsp;he / him.<p>
     &nbsp; . . . the white devil . . . &nbsp;<p>
         <a href="https://devilbite.atabook.org/" > 
           <img src="https://i.postimg.cc/X70Syw2M/Hello-IMG1721006637768.gif"> 
